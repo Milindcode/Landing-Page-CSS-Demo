@@ -125,5 +125,27 @@
     color: #5e5d5d;
 }
 
+.quote-section{
+    background-color: #e5e7eb;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10% 15%;
+    margin-bottom: 5%;
+}
+
+.quote-section .quote{
+    font-weight: lighter;
+    font-size: 36px;
+    color: #5d6a7b;
+    font-style: italic;
+}
+
+.quote-section .author{
+    color: #1f2937;
+    text-align: right;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
 
 
