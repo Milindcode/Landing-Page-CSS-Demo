@@ -125,6 +125,9 @@
     color: #5e5d5d;
 }
 
+
+/* Quote Section Styling */
+
 .quote-section{
     background-color: #e5e7eb;
     font-family: Arial, Helvetica, sans-serif;
@@ -145,6 +148,50 @@
     font-size: 24px;
     font-weight: bold;
 }
+
+
+/* Sign-Up Section Styling */
+
+.signup-section{
+    background-color: #3882f6;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1% 15%;
+    color: white;
+    display: flex;
+    padding: 2% 10%;
+    border-radius: 10px;
+}
+
+.signup-section .signup-text{
+    flex:5;
+}
+
+.signup-text .head-text{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.signup-section .signup-btn{
+    flex:2;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.signup-btn button{
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+    color: white;
+    padding: 2% 15%;
+    background-color:#3882f6;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+
 
 
 
